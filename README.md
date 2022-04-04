@@ -1,4 +1,3 @@
-Laravel 8 dynamically add multiple input fields and submit to database with jquery
 
 
 
